@@ -1,7 +1,7 @@
 # A-priori-algorithm-payment-card-detection-fraud
 Implementation of a priori algorithm for credit card fraud detection
 
-Files included:
+Files included below:
  -- apriori.py
  -- inputs.csv --> the raw dataset in csv format.
  -- inputs1.xls --> dataset sample after initial pre-processing.
